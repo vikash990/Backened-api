@@ -1,0 +1,24 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "description": "vikash-project-1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "MERN-Project-1"
+  },
+  "keywords": [
+    "9931320688a"
+  ],
+  "author": "vikash-dubey",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.1"
+  }
+}
